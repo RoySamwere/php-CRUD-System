@@ -1,0 +1,34 @@
+
+body{
+
+    background: aquamarine;
+}
+
+.form_class{
+    height: 100ch;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.s_input{
+
+    widows: 120%;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+.input_btn{
+
+    widows: 60%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 10px;
+}
+
+.a_link{
+
+    color: #0b2e13;
+    margin-right: auto;
+    text-decoration: none;
+}
